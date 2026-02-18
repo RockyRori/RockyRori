@@ -1,16 +1,19 @@
-## Hi there 👋
+# Suhai Luo
 
-<!--
-**RockyRori/RockyRori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc in Data Science | Research Focus: Decision-Aware Retrieval & Agentic LLM Systems
 
-Here are some ideas to get you started:
+## Research Interests
+- Decision-Aware Retrieval
+- Uncertainty Guided Reasoning
+- Multimodal RAG Evaluation
+- Agentic AI Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Research Projects
+- GAP: Multimodal RAG Evaluation Toolkit
+- PoliSage: RAG-based Policy QA Platform
+
+## Publications
+- GAP: A Browser-Only Toolkit for Evaluating Multimodal RAG (IEEE PerCom Demos 2026)
+
+## Contact
+Email: suhailuo@ln.hk
