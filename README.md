@@ -24,7 +24,7 @@ A feature selection method that integrates statistical importance with LLM-based
 
 ## Additional Research Manuscripts
 
-**Two additional manuscripts submitted under peer review(Name Hidden)**
+**Additional manuscripts submitted under peer review(Name Hidden)**
 
 - **Adaptive retrieval and reasoning** (Content Hidden).
 - **Robotic risk prediction** (Content Hidden).
