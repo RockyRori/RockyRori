@@ -29,6 +29,7 @@ A feature selection method that integrates statistical importance with LLM-based
 
 - **Adaptive retrieval and reasoning — 1 manuscript.** (Content Hidden).
 - **Robotic risk prediction — 1 manuscript.** (Content Hidden).
+- **Model collaboration for Classification — 1 manuscript.** (Content Hidden).
 
 ## Selected Research Project
 
